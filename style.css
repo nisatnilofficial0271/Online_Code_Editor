@@ -10,7 +10,45 @@ body {
   background:#333;
 }
 
+header{
 
+  padding: 5px;
+
+  background-color: #333;
+
+}
+
+header h2{
+
+  
+
+  box-sizing: border-box;
+
+  position: top;
+
+  color: #fff;
+
+  text-align: center;
+
+}
+
+header h6{
+
+  
+
+  box-sizing: border-box;
+
+  position: top;
+
+  color: #fff;
+
+  text-align: center;
+
+}
+
+  
+
+  }
   
 main {
   display: flex;
