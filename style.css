@@ -34,7 +34,7 @@ header{
   height: 15px;
 
   background-color: blue;
-  width: 100%;
+  
 
 }
 
@@ -123,6 +123,6 @@ iframe {
   }
 
   .cm-s-monokai.CodeMirror {
-    max-height: 200px;
+    max-height: 700px;
   }
 }
