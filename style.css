@@ -5,7 +5,7 @@
 body {
   margin: 0;
   padding: 0;
-  height: 1000vh;
+  height: 100vh;
   width: 100vw;
   font-family: 'Alkatra', cursive;
 
@@ -113,7 +113,7 @@ iframe {
 }
 
 .button-container>button {
-  margin-right: 10px;
+  margin-right: 100px;
 }
 
 @media screen and (max-width: 900px) {
