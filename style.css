@@ -31,9 +31,10 @@ font-family: 'Sono', sans-serif;
 
 header{
 
-  padding: 5px;
+  height: 15px;
 
   background-color: blue;
+  width: 100%;
 
 }
 
